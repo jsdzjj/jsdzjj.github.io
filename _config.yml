@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JiaJun Zou/Personal Homepage"
+title                    : "JiaJun Zou"
 title_separator          : "-"
 name                     : &name "JiaJun Zou"
 description              : &description "personal description"
